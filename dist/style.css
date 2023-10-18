@@ -1,0 +1,10 @@
+#navBar {
+    display: flex;
+    justify-content: center;
+}
+
+#navBar ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5em;
+}
